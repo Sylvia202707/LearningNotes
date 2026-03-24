@@ -1,2 +1,2 @@
-# Pandas_Learning
-my notebook when learning pandas
+# LearningNotes
+my notebook when learning
